@@ -1,0 +1,20 @@
+{
+  "reponame": "template-cocos2d-3x-portrait",
+  "sourceURL": "",
+  "title": "Cocos2d-JS 3.x Game Portrait Template",
+  "abbr": "",
+  "tooltip": "A blank template for creating games from Cocos2d-js 3.x",
+  "type": "",
+  "description": "Use this template to start with a blank portrait Game from Cocos2d-js 3.x",
+  "keywords": [ "Blank Project","Game" ],
+  "visible": "true",
+  "highlights": ["Cocos2d", "Game"],
+  "articleUrl": "",
+  "iconUrl": "",
+  "screenshotUrl": "",
+  "zipUrl": "",
+  "apppreview": false,
+  "appname": "",
+  "relname": "",
+  "mobile": false
+}
