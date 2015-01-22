@@ -13,8 +13,8 @@
     "cordovaPluginsDirectory": "plugins",
     "gameAssetDirectory": "asset",
     "gameMetadata": {
-      "gameEngineName": "",
-      "gameEngineVersion": ""
+      "gameEngineName": "Cocos2d-JS-Lite",
+      "gameEngineVersion": "3.2"
     },
     "startFile": "index.html",
     "projectTags": [
