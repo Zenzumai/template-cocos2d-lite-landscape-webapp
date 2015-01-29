@@ -2,7 +2,7 @@
 
 See [LICENSE.md]() for license terms and conditions.
 
-This template can be used for creating Intel XDK game app using Cocos2d engine. It is a blank Cocos2d-JS project, which contains the required files. To get start, please see the key file `main.js`.
+This template can be used for creating Intel XDK game app using Cocos2d Lite engine. It is a blank Cocos2d-JS Lite project, which contains the required files. To get start, please see the key file `src/app.js`.
 
 Intel(R) XDK
 -------------------------------------------
@@ -11,14 +11,10 @@ Download the Intel XDK at http://software.intel.com/en-us/html5.
 
 Application Files
 -----------------
-* app.json
-* cocos2d-js-template.xdk
-* intelxdk.config.additions.xml
-* LICENSE.md
-* README.md
-* index.html
-* main.js
-* frameworks/cocos2d-html5
-* project.json
+* asset/
+* lib/cocos2d-js-v3.2-lite.js
 * src/app.js
-* res/
+* src/MyScene.js
+* index.html
+* project.json
+* README.md
