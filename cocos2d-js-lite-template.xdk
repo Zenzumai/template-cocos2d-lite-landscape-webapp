@@ -221,7 +221,10 @@
       }
     },
     "gameAssetDirectory": "asset",
-    "gameMetadata": {},
+    "gameMetadata": {
+      "gameEngineName": "Cocos2d-JS-Lite",
+      "gameEngineVersion": "3.2"
+    },
     "projectTags": [
       "XDK-game-app"
     ]
