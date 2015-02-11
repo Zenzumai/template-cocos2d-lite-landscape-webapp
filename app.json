@@ -13,8 +13,11 @@
   "iconUrl": "",
   "screenshotUrl": "",
   "zipUrl": "",
-  "apppreview": false,
+  "apppreview": "false",
   "appname": "",
   "relname": "",
-  "mobile": false
+  "mobile": "false",
+  "relationship": "cocos2d-lite",
+  "gameEngine": { "name": "cocos2d-lite", "version": "3.x" },
+  "projectTypeName": "com.intel.xdk.projecttype.webapp"
 }
