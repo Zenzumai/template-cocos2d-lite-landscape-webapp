@@ -222,7 +222,7 @@
     },
     "gameAssetDirectory": "asset",
     "gameMetadata": {
-      "gameEngineName": "Cocos2d-JS-Lite",
+      "gameEngineName": "cocos2d-lite",
       "gameEngineVersion": "3.2"
     },
     "projectTags": [
