@@ -1,23 +1,32 @@
 {
-  "reponame": "template-cocos2d-lite-landscape",
-  "sourceURL": "",
-  "title": "Cocos2d-JS Lite Game Landscape Template",
-  "abbr": "",
-  "tooltip": "A blank template for creating games from Cocos2d-js Lite",
-  "type": "",
-  "description": "Use this template to start with a blank landscape Game from Cocos2d-js Lite",
-  "keywords": [ "Blank Project","Game" ],
-  "visible": "true",
-  "highlights": ["Cocos2d", "Game"],
-  "articleUrl": "",
-  "iconUrl": "",
-  "screenshotUrl": "",
-  "zipUrl": "",
-  "apppreview": "false",
-  "appname": "",
-  "relname": "",
-  "mobile": "false",
-  "relationship": "cocos2d-lite",
-  "gameEngine": { "name": "cocos2d-lite", "version": "3.x" },
-  "projectTypeName": "com.intel.xdk.projecttype.webapp"
+   "relName" : "",
+   "appPreview" : false,
+   "gameEngine" : {
+      "version" : "3.x",
+      "name" : "cocos2d-lite"
+   },
+   "title" : "Cocos2d-JS Lite Game Landscape Template",
+   "zipUrl" : "",
+   "description" : "Use this template to start with a blank landscape Game from Cocos2d-js Lite",
+   "visible" : true,
+   "tooltip" : "A blank template for creating games from Cocos2d-js Lite",
+   "projectTypeName" : "com.intel.xdk.projecttype.webapp",
+   "articleUrl" : null,
+   "mobile" : false,
+   "screenshotUrl" : "",
+   "highlights" : [
+      "Cocos2d",
+      "Game"
+   ],
+   "relationship" : "cocos2d-lite",
+   "abbr" : "",
+   "sourceURL" : "",
+   "appName" : "",
+   "keywords" : [
+      "Blank Project",
+      "Game"
+   ],
+   "iconUrl" : "",
+   "repoName" : "template-cocos2d-lite-landscape",
+   "type" : ""
 }
