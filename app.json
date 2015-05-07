@@ -8,6 +8,8 @@
    "title" : "Cocos2d-JS Lite Game Landscape Template",
    "zipUrl" : "",
    "description" : "Use this template to start with a blank landscape Game from Cocos2d-js Lite",
+   "section" : "templates",
+   "group" : "games",
    "visible" : true,
    "tooltip" : "A blank template for creating games from Cocos2d-js Lite",
    "projectTypeName" : "com.intel.xdk.projecttype.webapp",
