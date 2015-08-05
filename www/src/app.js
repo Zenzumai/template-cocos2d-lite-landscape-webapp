@@ -1,3 +1,5 @@
+/* jshint browser:true */
+/* globals cc, MyScene */
 document.addEventListener('DOMContentLoaded', function() {
   cc.game.onStart = function(){
       //load resources

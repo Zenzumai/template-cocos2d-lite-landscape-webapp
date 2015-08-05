@@ -1,3 +1,4 @@
+/* globals cc */
 var MyScene = cc.Scene.extend({
   onEnter: function() {
     this._super();
